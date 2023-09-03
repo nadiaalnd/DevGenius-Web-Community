@@ -23,33 +23,33 @@
 
 - Open Terminal or Command Prompt
 - Change to the DevGenius Directory
-
+  > ``
   > cd DevGenius
-  >
+  > ``
 - Install Dependensi
-
+  > ``
   > composer install
-  >
+  > ``
 - Copy Configuration File
-
+  > ``
   > cp .env.example .env
-  >
+  > ``
 - Generate Application Key
-
+  > ``
   > php artisan key:generate
-  >
+  > ``
 - Database Migration
-
+  > ``
   > php artisan migrate
-  >
+  > ``
 - Run the command
-
+  > ``
   > npm run dev
-  >
+  > ``
 - Run the application
-
+  > ``
   > php artisan serve
-  >
+  > ``
 - Open the localhost link to view the running application
     - [Localhost](http://127.0.0.1:8000/)
 
