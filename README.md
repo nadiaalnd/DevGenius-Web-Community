@@ -42,7 +42,7 @@
   > ```
   > php artisan migrate
   > ```
-- Run the command
+- Run the command in terminal
   > ```
   > npm run dev
   > ```
