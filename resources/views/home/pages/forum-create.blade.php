@@ -1,5 +1,5 @@
 @extends('home.layouts.main')
-@section('title', 'About Us')
+@section('title', 'Forum Create')
 @section('content')
 <div class="relative z-10 overflow-hidden bg-primary pt-[120px] pb-[100px] md:pt-[130px] lg:pt-[160px]">
     <div class="container">
