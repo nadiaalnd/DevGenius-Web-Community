@@ -22,6 +22,7 @@
 ## How To Run?
 
 - Open Terminal or Command Prompt
+- Start xampp
 - Change to the DevGenius Directory
   > ```
   > cd DevGenius
