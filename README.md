@@ -69,7 +69,5 @@ Home page view of DevGenius built using Laravel and the Play Tailwind template
 ## Contact
 
 - Nadila Aulya Salsabila Mirdianti
-- Email :
-
-  - nadila2244@gmail.com
+- Email : nadila2244@gmail.com
 - Instagram : [@nadiaalnd](https://instagram.com/nadiaalnd)
